@@ -1,5 +1,5 @@
 #include<stdio.h>
-int funa(int a)  //441
+int funa(int a)
 {
     int b;
     b=(a*a);
